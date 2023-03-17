@@ -4,6 +4,9 @@ I made this app during the #30dayschallengecode of the google developpers studen
 
 Basicaly this app is a meditation app with a home page showing different activies like diete recommandation, kegel exercises, meditation, yoga. Currently it's just the meditation part which is working. And when we click on it a detail page appears.
 
+![Alt text](/assets/photo_1_2023-03-17_09-26-44.jpg)
+![Alt text](/assets/photo_2_2023-03-17_09-26-44.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
